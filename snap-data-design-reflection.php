@@ -6,6 +6,7 @@
 		<link rel="stylesheet" href="reflections.css">
 	</head>
 	<body>
+		<section class="main">
 		<h1>Reflections</h1>
 		<h5>0. What is the most significant thing you learnt about object oriented?</h5>
 		<p>It's the foundation to building highly organized, scalable and maintainable application
@@ -20,6 +21,7 @@
 		This has important security and maintainability implications.</p>
 		<h5>What is the air speed velocity of a laden swallow?</h5>
 		<p>3. What is a laden swallow?</p>
+		</section>
 		<?php
 
 		?>
