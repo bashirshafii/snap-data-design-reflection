@@ -13,14 +13,14 @@
 		code. </p>
 		<h5>1. What is the most significant thing you have learned about the effect of the frontend
 		on the backend?</h5>
-		<p>The backend has a 'uuuuuuuuuuuuge' impact on the design of the front. The workflow of the application
+		<p>The backend has a huge impact on the design of the front. The workflow of the application
 		, and the user interaction is ultimately dependent on the backend. The front-end, while very important, is
 		ultimately dependent on the backend's functionality.</p>
 		<h5>2. Why is encapsulation so important?</h5>
 		<p>It helps us keep the data/state/properties of our classes private and access them only through mutator and accessor methods.
 		This has important security and maintainability implications.</p>
 		<h5>What is the air speed velocity of a laden swallow?</h5>
-		<p>3. What is a laden swallow?</p>
+		<p>3. I don't answer trivial questions :)</p>
 		</section>
 		<?php
 
